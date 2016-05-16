@@ -1,0 +1,14 @@
+D:\Production Project\CreateComponentInTridionUsingMongoDB\MongoDBClient\bin\Debug\MongoDBClient.exe.config
+D:\Production Project\CreateComponentInTridionUsingMongoDB\MongoDBClient\obj\Debug\MongoDBClient.csprojResolveAssemblyReference.cache
+D:\Production Project\CreateComponentInTridionUsingMongoDB\MongoDBClient\bin\Debug\MongoDBClient.exe
+D:\Production Project\CreateComponentInTridionUsingMongoDB\MongoDBClient\bin\Debug\MongoDBClient.pdb
+D:\Production Project\CreateComponentInTridionUsingMongoDB\MongoDBClient\bin\Debug\MongoDB.Bson.dll
+D:\Production Project\CreateComponentInTridionUsingMongoDB\MongoDBClient\bin\Debug\MongoDB.Driver.Core.dll
+D:\Production Project\CreateComponentInTridionUsingMongoDB\MongoDBClient\bin\Debug\MongoDB.Driver.dll
+D:\Production Project\CreateComponentInTridionUsingMongoDB\MongoDBClient\bin\Debug\MongoDBToTridion.BAL.dll
+D:\Production Project\CreateComponentInTridionUsingMongoDB\MongoDBClient\bin\Debug\Tridion.ContentManager.CoreService.Client.dll
+D:\Production Project\CreateComponentInTridionUsingMongoDB\MongoDBClient\bin\Debug\MongoDBToTridion.BAL.pdb
+D:\Production Project\CreateComponentInTridionUsingMongoDB\MongoDBClient\bin\Debug\MongoDB.Bson.xml
+D:\Production Project\CreateComponentInTridionUsingMongoDB\MongoDBClient\bin\Debug\MongoDB.Driver.xml
+D:\Production Project\CreateComponentInTridionUsingMongoDB\MongoDBClient\obj\Debug\MongoDBClient.exe
+D:\Production Project\CreateComponentInTridionUsingMongoDB\MongoDBClient\obj\Debug\MongoDBClient.pdb

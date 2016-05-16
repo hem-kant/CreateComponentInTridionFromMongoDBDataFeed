@@ -1,0 +1,6 @@
+D:\Production Project\CreateComponentInTridionUsingMongoDB\MongoDBToTridion.BAL\bin\Debug\MongoDBToTridion.BAL.dll
+D:\Production Project\CreateComponentInTridionUsingMongoDB\MongoDBToTridion.BAL\bin\Debug\MongoDBToTridion.BAL.pdb
+D:\Production Project\CreateComponentInTridionUsingMongoDB\MongoDBToTridion.BAL\bin\Debug\Tridion.ContentManager.CoreService.Client.dll
+D:\Production Project\CreateComponentInTridionUsingMongoDB\MongoDBToTridion.BAL\obj\Debug\MongoDBToTridion.BAL.dll
+D:\Production Project\CreateComponentInTridionUsingMongoDB\MongoDBToTridion.BAL\obj\Debug\MongoDBToTridion.BAL.pdb
+D:\Production Project\CreateComponentInTridionUsingMongoDB\MongoDBToTridion.BAL\obj\Debug\MongoDBToTridion.BAL.csprojResolveAssemblyReference.cache
