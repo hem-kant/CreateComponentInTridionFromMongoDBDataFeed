@@ -18,12 +18,12 @@ namespace MongoDBToTridion.BAL
         public static ICoreServiceFrameworkContext coreService = null;
         public static void process(List<Article> DataFrommongo)
         {
-            List<Article> article = DataFrommongo;
+            
             try
             {
                 coreService = CoreServiceFactory.GetCoreServiceContext(new Uri(ConfigurationSettings.AppSettings["CoreServiceURL"].ToString()), new NetworkCredential(ConfigurationSettings.AppSettings["UserName"].ToString(), ConfigurationSettings.AppSettings["Password"].ToString(), ConfigurationSettings.AppSettings["Domain"].ToString()));
                 SchemaFieldsData schemaFieldData = coreService.Client.ReadSchemaFields(ConfigurationSettings.AppSettings["SchemaID"].ToString(), true, new ReadOptions());
-                foreach (Article p in article)
+                foreach (Article p in DataFrommongo)
                 {
                     string serializeXml = "";
                     bool bln = Helper.helper.Serialize<Article>(p, ref serializeXml);
